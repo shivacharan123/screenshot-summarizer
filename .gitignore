@@ -1,0 +1,23 @@
+# --- Secrets ---
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+screenshot_ai/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+
+# --- Generated screenshots (optional but recommended) ---
+screenshots/
